@@ -58,6 +58,9 @@
         <mxCell id="55d61Kqw-UL2NlDh5xMo-20" value="继父暴力：母亲被继父毒打，贫病而死。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="810" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="940" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
