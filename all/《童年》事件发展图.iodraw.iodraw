@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="55d61Kqw-UL2NlDh5xMo-1" value="三岁前：父亲早逝" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="330" y="40" width="170" height="60" as="geometry" />
+          <mxGeometry x="50" y="40" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
