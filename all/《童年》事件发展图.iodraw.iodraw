@@ -22,8 +22,8 @@
             <mxPoint x="413" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-5" value="祖父家业：染坊衰败，舅舅争斗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
