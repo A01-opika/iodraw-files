@@ -61,6 +61,9 @@
         <mxCell id="55d61Kqw-UL2NlDh5xMo-20" value="继父暴力：母亲被继父毒打，贫病而死。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="810" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-23" target="55d61Kqw-UL2NlDh5xMo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-23" value="阿廖沙被外祖父逐出家门，开始了在人间的生活。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="940" width="170" height="60" as="geometry" />
         </mxCell>
