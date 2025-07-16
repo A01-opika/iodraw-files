@@ -22,14 +22,11 @@
             <mxPoint x="413" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-5" target="55d61Kqw-UL2NlDh5xMo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-5" value="祖父家业：染坊衰败，舅舅争斗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="190" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-5" target="55d61Kqw-UL2NlDh5xMo-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="420" as="sourcePoint" />
-            <mxPoint x="415" y="490" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-8" value="外祖母的温情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="320" width="170" height="60" as="geometry" />
@@ -41,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-11" value="母亲回外祖父家后再婚，阿廖沙对母亲的照料的希望破灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="330" width="170" height="60" as="geometry" />
+          <mxGeometry x="329" y="450" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
