@@ -14,9 +14,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-3" value="在外祖父家(3~10岁)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="170" height="60" as="geometry" />
+          <mxGeometry x="329" y="40" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="413" y="250" as="sourcePoint" />
             <mxPoint x="413" y="340" as="targetPoint" />
