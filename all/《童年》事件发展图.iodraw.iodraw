@@ -55,11 +55,20 @@
         <mxCell id="55d61Kqw-UL2NlDh5xMo-18" value="遇见“好事情”，目睹好事情被认为是怪人而被赶走，知道“清醒的人”的生活不易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="700" width="171" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-20" target="55d61Kqw-UL2NlDh5xMo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-20" value="继父暴力：母亲被继父毒打，贫病而死。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="810" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-23" value="阿廖沙被外祖父逐出家门，开始了在人间的生活。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="940" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1000" as="sourcePoint" />
+            <mxPoint x="590" y="950" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
