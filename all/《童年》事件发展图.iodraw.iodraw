@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2836" dy="1552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-18" value="遇见“好事情”，目睹好事情被认为是怪人而被赶走，知道“清醒的人”的生活不易" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="329" y="700" width="171" height="60" as="geometry" />
+          <mxGeometry x="329" y="700" width="241" height="60" as="geometry" />
         </mxCell>
         <mxCell id="55d61Kqw-UL2NlDh5xMo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="55d61Kqw-UL2NlDh5xMo-20" target="55d61Kqw-UL2NlDh5xMo-23">
           <mxGeometry relative="1" as="geometry" />
