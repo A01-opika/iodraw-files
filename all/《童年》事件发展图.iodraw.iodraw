@@ -64,11 +64,8 @@
         <mxCell id="55d61Kqw-UL2NlDh5xMo-23" value="阿廖沙被外祖父逐出家门，开始了在人间的生活。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="940" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="1000" as="sourcePoint" />
-            <mxPoint x="590" y="950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
