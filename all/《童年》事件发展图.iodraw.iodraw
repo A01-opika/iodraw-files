@@ -52,6 +52,9 @@
         <mxCell id="55d61Kqw-UL2NlDh5xMo-18" value="遇见“好事情”，目睹好事情被认为是怪人而被赶走，知道“清醒的人”的生活不易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="700" width="171" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
