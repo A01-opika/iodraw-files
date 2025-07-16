@@ -13,8 +13,8 @@
             <mxPoint x="415" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55d61Kqw-UL2NlDh5xMo-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="146" height="60" as="geometry" />
+        <mxCell id="55d61Kqw-UL2NlDh5xMo-3" value="在外祖父家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
